@@ -6,7 +6,7 @@
 
 I'm learning the ropes.
 
-- 🔭 Working on deploying some Resources in [Azure](https://portal.azure.com)
-- 🌱 Learning Github and How to Code
-- 🤔 Can you help me with good resources, code reviews and beginner friendly challenges?
-- ⚡ Fun fact: I'm currently reading The Girl in the Red Coat by Kate Hamer
+- 🔭 Working on Use Cases [Azure](https://portal.azure.com)
+- 🌱 Getting Certified
+- 🤔 Can you help me with code reviews and beginner friendly challenges?
+
