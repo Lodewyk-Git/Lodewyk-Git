@@ -6,7 +6,6 @@
 
 I'm learning the ropes.
 
-- 🔭 Working on Use Cases [Azure](https://portal.azure.com)
 - 🌱 Getting Certified
 - 🤔 Can you help me with code reviews and beginner friendly challenges?
 
